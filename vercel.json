@@ -1,9 +1,9 @@
 {
     "version": 2,
-    "rewrites":[
+    "rewrites": [
         {
-            "source":"/(.*)",
-            "destionation":"/freedns.html"
+            "source": "/(.*)",
+            "destination": "/index.html"
         }
     ]
 }
